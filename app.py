@@ -3,7 +3,7 @@ from tensorflow.keras.preprocessing.image import load_img, img_to_array
 import numpy as np
 from flask import Flask, request, render_template
 from werkzeug.utils import secure_filename
-from gevent.pywsgi import WSGIServer
+
 
 import os, sys, glob, re
 
