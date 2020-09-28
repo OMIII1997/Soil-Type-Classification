@@ -23,3 +23,14 @@ his model deployment explanation at ![AI in Agri Playlist](https://www.youtube.c
 
 # Click on Below Image for Project Demo: 😍👀🔍📺📡 <br>
 [![YouTube](https://github.com/OMIII1997/Soil-Type-Classification/blob/master/screenshots/Soil%20Classification%20%26%20Crop%20Suggestion.jpg)](https://youtu.be/gnKmbgbPRJA)
+
+# Screen-Shots:🖥🖨✔🖼📷 <br>
+![Image](https://github.com/OMIII1997/Soil-Type-Classification/blob/master/screenshots/Screenshot%20(196).png)
+![Image](https://github.com/OMIII1997/Soil-Type-Classification/blob/master/screenshots/Screenshot%20(197).png)
+![Image](https://github.com/OMIII1997/Soil-Type-Classification/blob/master/screenshots/Screenshot%20(198).png)
+![Image](https://github.com/OMIII1997/Soil-Type-Classification/blob/master/screenshots/Screenshot%20(199).png)
+![Image](https://github.com/OMIII1997/Soil-Type-Classification/blob/master/screenshots/Screenshot%20(200).png)
+![Image](https://github.com/OMIII1997/Soil-Type-Classification/blob/master/screenshots/Screenshot%20(201).png)
+![Image](https://github.com/OMIII1997/Soil-Type-Classification/blob/master/screenshots/Screenshot%20(202).png)
+![Image](https://github.com/OMIII1997/Soil-Type-Classification/blob/master/screenshots/Screenshot%20(203).png)
+![Image](https://github.com/OMIII1997/Soil-Type-Classification/blob/master/screenshots/Screenshot%20(204).png)
