@@ -4,7 +4,7 @@
 https://soilnet.herokuapp.com/
 
 # Dataset available at: 📚📓🗞💾 <br>
-
+Datset link will be added soon...
 
 
 For this project a deep learning model is trained with 903 images of four different types soil. "Alluvial", "Black", "Clay" , "Red". All images are collected 
