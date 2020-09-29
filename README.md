@@ -3,6 +3,10 @@
 # Model deployed as Web-Application API at:🎯🔗📳  <br>
 https://soilnet.herokuapp.com/
 
+# Code Notebook at Kaggle: 📝📒📔📑🧾💻  <br>
+https://www.kaggle.com/omkargurav/soil-type-classification-soilnet
+<br>
+
 # Dataset available at: 📚📓🗞💾 <br>
 https://www.kaggle.com/omkargurav/soil-classification-image-data
 
