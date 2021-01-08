@@ -17,7 +17,7 @@ classes = {0:"Alluvial Soil:-{ Rice,Wheat,Sugarcane,Maize,Cotton,Soyabean,Jute }
 
 def model_predict(image_path,model):
     print("Predicted")
-    image = load_img(image_path,target_size=(150,150))
+    image = load_img(image_path,target_size=(224,224))
     image = img_to_array(image)
     image = image/255
     image = np.expand_dims(image,axis=0)
