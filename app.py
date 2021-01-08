@@ -9,7 +9,7 @@ import os, sys, glob, re
 
 app = Flask(__name__)
 
-model_path = "SoilNet_97_00_95_85.h5"
+model_path = "SoilNet_93_86.h5"
 
 SoilNet = load_model(model_path)
 
